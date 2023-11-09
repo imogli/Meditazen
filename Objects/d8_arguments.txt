@@ -1,0 +1,52 @@
+--release
+--output
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects
+--lib
+C:\Android\platforms\android-33\android.jar
+C:\Android\tools\..\extras\b4a_local\unpacked-b4ashared-63822347762000\dex_v1\b4ashared.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-camera-63822347762000\dex_v1\camera.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-core-63822347762000\dex_v1\core.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-xui-63822347764000\dex_v1\xui.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-camera2-63822347762000\dex_v1\camera2.zip
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\guia_meditacion$1.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\guia_meditacion$B4AMenuItemsClickListener.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\guia_meditacion$HandleKeyDelayed.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\guia_meditacion$ResumeMessage.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\guia_meditacion$WaitForLayout.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\guia_meditacion.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\instru_medita_mar$1.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\instru_medita_mar$B4AMenuItemsClickListener.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\instru_medita_mar$HandleKeyDelayed.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\instru_medita_mar$ResumeMessage.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\instru_medita_mar$WaitForLayout.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\instru_medita_mar.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\login$1.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\login$B4AMenuItemsClickListener.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\login$HandleKeyDelayed.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\login$ResumeMessage.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\login$WaitForLayout.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\login.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\main$1.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\main$B4AMenuItemsClickListener.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\main$HandleKeyDelayed.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\main$ResumeMessage.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\main$WaitForLayout.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\main.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\perfil$1.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\perfil$B4AMenuItemsClickListener.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\perfil$HandleKeyDelayed.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\perfil$ResumeMessage.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\perfil$WaitForLayout.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\perfil.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\R$drawable.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\R$style.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\R.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\starter$1.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\starter$2.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\starter$starter_BR.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\starter.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\designerscripts\LS_guia_meditacion.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\designerscripts\LS_instru_medita_mar.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\designerscripts\LS_layout.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\designerscripts\LS_login.dex
+E:\_00_BIBLIOTECAS\Escritorio\APP Medizen\Inicio\Objects\dexed\b4a\example\designerscripts\LS_perfil.dex
